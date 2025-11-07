@@ -7,6 +7,7 @@ my-project/
 │   ├── image.md
 │   └── index.md
 └── mkdocs.yml
+
 # 🖼️ Image Gallery
 
 Here’s an example image:
