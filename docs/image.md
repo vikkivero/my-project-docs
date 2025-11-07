@@ -3,7 +3,7 @@ my-project/
 │
 ├── docs/
 │   ├── img/
-│   │   └── my-picture.png
+│   │   └── expertise-post.png
 │   ├── image.md
 │   └── index.md
 └── mkdocs.yml
