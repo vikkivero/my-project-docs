@@ -2,8 +2,7 @@
 
 Let’s build something amazing :sparkles:
 
-This site will help you get started quickly 🚀  
-
+This site will help you get started quickly 🚀  <br> <br>
 
 This documentation covers installation, configuration, and usage details.
 
