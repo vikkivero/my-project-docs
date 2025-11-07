@@ -1,5 +1,5 @@
 site_name: My Docs
-site_description: This documentation will cover installation, configuration, and usage details.
+site_description: This documentation covers installation, configuration, and usage details.
 site_author: Veronica Phillip
 
 theme:
