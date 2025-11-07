@@ -17,5 +17,4 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - 'welcome to mkdocs:' welcome-to-mkdocs.md
   - 'image folder:' image.md
